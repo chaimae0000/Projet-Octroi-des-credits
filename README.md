@@ -70,7 +70,9 @@ streamlit run app.py
 
 ## 🚀 Capture d'écran
 
-![App Streamlit](C:\Users\Lenovo Thinkbook 14\Desktop\Projects\projet devoteam)
+<img width="1898" height="898" alt="Capture d'écran 2025-09-08 202309" src="https://github.com/user-attachments/assets/35665e74-8538-4c0c-9b71-d409a51e9bf8" />
+<img width="1917" height="808" alt="Capture d'écran 2025-08-29 171146" src="https://github.com/user-attachments/assets/f3947c23-4bc1-4420-a164-0d53f764ca29" />
+
 
 ---
 
