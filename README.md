@@ -70,7 +70,7 @@ streamlit run app.py
 
 ## 🚀 Capture d'écran
 
-![App Streamlit](screenshots/streamlit_app.png)
+![App Streamlit](C:\Users\Lenovo Thinkbook 14\Desktop\Projects\projet devoteam)
 
 ---
 
